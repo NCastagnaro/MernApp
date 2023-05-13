@@ -1,0 +1,12 @@
+//What this code is doing is that when you import files into other files, you can just start from 'src' and it makes things easier.
+//This will make more sense when things are coded out.
+ 
+{
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src"]
+}
+
+
+
